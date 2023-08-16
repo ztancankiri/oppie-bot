@@ -1,0 +1,15 @@
+{
+  "name": "oppiebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --ignore '*.json' app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "nodemon": "^3.0.1"
+  }
+}
